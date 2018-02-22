@@ -36,14 +36,14 @@ m0rkcoin focuses on open-source, community, quality and ease of use. We will rel
 
 m0rkcoin is still a relatively new coin, we soft launched around mid Jan 2018. The project is not yet fully completed but we're working hard on it.
 
-- [x] Jan 2018 - Build Windows and Linux wallet
-- [x] Jan 2018 - Launch the official mining pool
-- [x] Feb 2018 - Launch first version of GUI Wallet for Windows and Linux
-- [x] Feb 2018 - Minimal website/landing page
-- [ ] Mar 2018 - Better website/landing page
-- [ ] Mar 2018 - Build and launch a Blockchain and Transaction explorer - In Progress
-- [ ] Mar 2018 - Build Mac wallet and GUI wallet
-- [ ] Q2 2018 - Get listed on an exchange
+- [x]  Jan 2018 - Build Windows and Linux wallet
+- [x]  Jan 2018 - Launch the official mining pool
+- [x]  Feb 2018 - Launch first version of GUI Wallet for Windows and Linux
+- [x]  Feb 2018 - Minimal website/landing page
+- [ ]  Mar 2018 - Better website/landing page
+- [ ]  Mar 2018 - Build and launch a Blockchain and Transaction explorer - In Progress
+- [ ]  Mar 2018 - Build Mac wallet and GUI wallet
+- [ ]  Q2 2018 - Get listed on an exchange
 
 
 ## Whitepaper
